@@ -1,7 +1,6 @@
 <h2> Hi, I'm Abila Prastika Navilata! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-# 💫 About Me:
 Hi, I'm Abila Prastika Navilata<br>Informatics engineering student at Muhammadiyah University of Surakarta<br>Interested in all things technology<br>
 
 
